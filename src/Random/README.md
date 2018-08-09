@@ -1,0 +1,3 @@
+1. 介绍： Random是用来生成伪随机数的
+Random与ThreadLocalRandom的区别： ThreadLocalRandom是Random的增强版。在并发访问环境中，提供更好的线程安全性。
+Random与Math.random()方法的区别：Random比Math的random方法提供了更多生成伪随机数的方式。
